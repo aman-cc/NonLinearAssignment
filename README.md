@@ -1,4 +1,5 @@
 Random Boolean Networks
+Initialize the first cell of the notebook by giving the following attributes of the network. Sample code for N = 4, K = 1, N = 5, K = 3 is given.
 
 N - Number of nodes <br/>
 K - Number of input per node <br/>
